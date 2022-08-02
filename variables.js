@@ -5,3 +5,10 @@ var name = "Eleanor"
 var dogName = "Sydney"
 var ateLunch = true
 var dogAteLunch = false
+var name = "Andrew"
+var dogName = "Theo"
+console.log(dogName)
+console.log(name)
+console.log(ateLunch)
+console.log (dogAteLunch)
+console.log(age)
